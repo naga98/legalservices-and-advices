@@ -1,0 +1,13 @@
+.container{
+    min-height: 650px;
+}
+
+
+#law{
+    width: 350px;
+}
+
+.bg-dark{
+    background-color: #87409e!important;
+        height: 70px!important;
+}
